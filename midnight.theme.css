@@ -17,7 +17,7 @@
 	/* main accent color (mentions, folder icons, unread indicators) */
 	--accent-color: hsl(190, 60%, 50%);
 	/* darker accent color (background of any accent items with text) */
-	--accent-background: hsl(190, 60%, 40%);
+	--accent-background: hsl(206, 87%, 28%);
 	/* even darker accent color (background of accent buttons when hover) */
 	--accent-background-2: hsl(190, 60%, 30%);
 	/* even darker accent color (background of accent buttons when clicked) */
