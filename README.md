@@ -1,3 +1,6 @@
+
+this is me copying midnight to my own github for some reason i dont remember why i did this sorry if somebody noticed this
+
 <img width=700 src="https://user-images.githubusercontent.com/34758569/209453714-d26e6662-7579-4e16-ab1c-b1e1e377be28.png">
 
 # midnight
